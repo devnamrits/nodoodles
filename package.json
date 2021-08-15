@@ -1,0 +1,15 @@
+{
+  "name": "nodoodles",
+  "version": "1.0.0",
+  "description": "Learning Node.Js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "devnamrits",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
